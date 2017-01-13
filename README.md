@@ -14,20 +14,20 @@ Algorithms implemented are:
   - Best-case time complexity:	O(n)
   - Average time complexity:	O(n^2)
   - Worst-case space complexity: O(1)
-  
- - Merge Sort:
+
+- Merge Sort:
   - Worst-case time complexity:	O(n log(n))
   - Best-case time complexity:	O(n log(n))
   - Average time complexity:	O(n log(n))
   - Worst-case space complexity: O(n)
   
- - Quick Sort:
+- Quick Sort:
   - Worst-case time complexity:	O(n^2)
   - Best-case time complexity:	O(n log(n))
   - Average time complexity:	O(n log(n))
   - Worst-case space complexity: O(log(n))
   
- - Selection Sort:
+- Selection Sort:
   - Worst-case time complexity:	O(n^2)
   - Best-case time complexity:	O(n^2)
   - Average time complexity:	O(n^2)
